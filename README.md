@@ -3,7 +3,7 @@
 I am glad to welcome you to my profile
 
 ### Education 🎓
-- **2018-2022** Bachelor of Information Security, Federal State Budget Educational Institution of Higher Education «Irkutsk National Research Technical University»
+- **2018-2022** Bachelor of Information Security, Federal State Budget Educational Institution of Higher Education «Irkutsk National Research Technical University» (INRTU)
 
 ### Work Experience 💻
 
@@ -18,6 +18,21 @@ I am glad to welcome you to my profile
 - **Basic:** Vue.js
 - **Intermediate:** JavaScript, Docker, docker-compose, Nginx, SQL, C#, GitHub Actions
 - **Advanced:** Python, HTML, CSS
+
+### Events ⚡
+
+#### 2019
+- **CHATBOT://HACKATON** - within the framework of the All-Russian NAUKA 0+ Festival, **1st place**
+
+#### 2020
+- **УМНИК-ON** - intra-university hackathon of engineering solutions, **2st place**
+- **All-Russian competition of Young entrepreneurs** - **1st place** in the nomination "Project presentation" and **4th place** in the overall standings
+- **Energy Laboratory** - Accelerator of En+ company, **2st place**
+- **RISC** - IV All-Russian Information Security Case Championship, **3st place**
+
+#### 2021
+- **TechProject** - intra-university hackathon at INRTU, **1st place** 
+- **SECURITY CASE CUP** - Siberian Student Competition on Information Security, **1st place**
 
 ### Contacts ✉️
 - Telegram: [@bolanebyla](http://t.me/bolanebyla)
