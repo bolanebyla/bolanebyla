@@ -3,7 +3,9 @@
 I am glad to welcome you to my profile
 
 ### Education 🎓
-- **2018-2022** Bachelor of Information Security, Federal State Budget Educational Institution of Higher Education «Irkutsk National Research Technical University» (INRTU)
+
+- **2018 - 2022** - Bachelor of Information Security, Federal State Budget Educational Institution of Higher Education «Irkutsk National Research Technical University» (INRTU)
+- **March 2021 - June 2021** - The first stage of the educational project "IT academy" from En+ Group, RUSAL and INRTU
 
 ### Work Experience 💻
 
@@ -27,12 +29,20 @@ I am glad to welcome you to my profile
 #### 2020
 - **УМНИК-ON** - intra-university hackathon of engineering solutions, **2st place**
 - **All-Russian competition of Young entrepreneurs** - **1st place** in the nomination "Project presentation" and **4th place** in the overall standings
-- **Energy Laboratory** - Accelerator of En+ company, **2st place**
+- **Irkutskctf** - intercollegiate competitions in information security, participation
+- **Energy Laboratory** - Accelerator of En+ Group, **2st place**
 - **RISC** - IV All-Russian Information Security Case Championship, **3st place**
 
 #### 2021
+- **POLYGON CTF 2021** - IV interregional student competitions on information security, participation
+- **Irkutsk CTF** - intercollegiate competitions in information security, participation
 - **TechProject** - intra-university hackathon at INRTU, **1st place** 
 - **SECURITY CASE CUP** - Siberian Student Competition on Information Security, **1st place**
+- **VK Vezdekod** - Crosscompetetive hackathon (IT Marathon) in webtech/robotech/UIUXdesign/infosec, participant of the final stage, **7th place** qualifying stage
+
+
+#### 2022
+- **VK Vezdekod** - Crosscompetetive hackathon (IT Marathon), **14th place** in the final stage, **5th place** qualifying stage
 
 ### Contacts ✉️
 - Telegram: [@bolanebyla](http://t.me/bolanebyla)
