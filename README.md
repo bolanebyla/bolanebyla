@@ -13,12 +13,13 @@ I am glad to welcome you to my profile
 - February 2021 - April 2021 - [Irkutsk National Research Technical University](https://www.istu.edu/) - Team Lead, Developer on ***Python*** + ***Docker*** in the project "[Smart Schedule IRNITU](https://github.com/OneIdea-IRNITU/Smart-schedule-IRNITU)" - Chatbots with class schedules 
 - May 2021 - August 2021 - [Irkutsk National Research Technical University](https://www.istu.edu/) - Team Lead, Developer on ***Django*** + ***Docker*** in the project "[priemIRNITU_bot](https://github.com/NaniB0ots/priemIRNITU_bot)" - Сhatbots for university applicants
 - March 2021 - July 2022 - [En+ Digital](https://enplus.digital/) - Backend Developer on ***ASP .Net Core***
-- February 2021 - Now - [Likwid Technologies](https://likwid.tech/) - Team Lead, Backend Developer on ***Django*** + ***Django Rest Framework*** 
+- February 2021 - October 2022 - [Likwid Technologies](https://likwid.tech/) - Team Lead, Backend Developer on ***Django*** + ***Django Rest Framework*** 
+- October 2022 - Now - [53x apps](https://53xapps.com/) - Python backend developer 
 
 ### Skills 📈
 
 - **Basic:** Vue.js
-- **Intermediate:** JavaScript, Docker, docker-compose, Nginx, SQL, C#, GitHub Actions
+- **Intermediate:** JavaScript, Docker, docker-compose, Nginx, SQL, C#, GitHub Actions, camunda
 - **Advanced:** Python, HTML, CSS
 
 ### Events ⚡
