@@ -14,7 +14,7 @@ I am glad to welcome you to my profile
 - May 2021 - August 2021 - [Irkutsk National Research Technical University](https://www.istu.edu/) - Team Lead, Developer on ***Django*** + ***Docker*** in the project "[priemIRNITU_bot](https://github.com/NaniB0ots/priemIRNITU_bot)" - Сhatbots for university applicants
 - March 2021 - July 2022 - [En+ Digital](https://enplus.digital/) - Backend Developer on ***ASP .Net Core***
 - February 2021 - October 2022 - [Likwid Technologies](https://likwid.tech/) - Team Lead, Backend Developer on ***Django*** + ***Django Rest Framework*** 
-- October 2022 - Now - [53x apps](https://53xapps.com/) - Python backend developer 
+- October 2022 - Now - [53x apps](https://53xapps.com/) - Team Lead, Python backend developer 
 
 ### Skills 📈
 
